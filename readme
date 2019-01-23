@@ -1,0 +1,4 @@
+Implementation of quick sort with the pivot element being the first element.
+The pivot element moved to its place by findding the count of the elements smaller than the element.
+Then all smaller elements are moved to the left of pivot element and larger element are moved to right of the pivot element.
+Then the quick sort function is called recursively on the other two parts.
